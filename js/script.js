@@ -3,11 +3,8 @@
 function typeOfTriangle(){
 
 	var side1= document.querySelector('#triangle-side1').value;
-	console.log(side1);
 	var side2= document.querySelector('#triangle-side2').value;
-	console.log(side2);
 	var side3= document.querySelector('#triangle-side3').value;
-	console.log(side3);
 	var answer=document.querySelector('#answer');
 
 	// console.log('clickes')

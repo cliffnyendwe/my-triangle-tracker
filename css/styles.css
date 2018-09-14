@@ -3,18 +3,9 @@
 }
 
 body{
-
-
-
-}
-
-
-
-.triangle{
-  color:white:;
-  transform: translate(50%,50%);
-  background-image:url("../download.jpeg");
+  background-image:url("../background.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-color: grey;
+  text-align: center;
 }
