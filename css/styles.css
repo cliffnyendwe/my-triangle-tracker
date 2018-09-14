@@ -8,4 +8,22 @@ body{
   background-size: cover;
   background-color: grey;
   text-align: center;
+
+}
+nav {
+  margin-bottom: 0;
+}
+#triangle-tracker{
+  padding-top:30%;
+  text-align:left;
+  list-style-type: lower-roman;
+
+}
+li{
+  list-style-type:roman;
+}
+.column {
+  width: 40%;
+  float: left;
+  margin-top: 5%;
 }
