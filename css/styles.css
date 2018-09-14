@@ -16,7 +16,8 @@ nav {
 #triangle-tracker{
   padding-top:30%;
   text-align:left;
-  
+  color:brown;
+  background-image:url("../cliff.jpeg");
 }
 li{
   list-style-type:roman;
