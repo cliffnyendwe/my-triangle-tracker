@@ -16,8 +16,11 @@ nav {
 #triangle-tracker{
   padding-top:30%;
   text-align:left;
-  color:brown;
-  background-image:url("../cliff.jpeg");
+  color:black;
+  font-size: x-large;
+  font-family: fantasy;
+  font-weight: bold;
+
 }
 li{
   list-style-type:roman;
@@ -26,4 +29,13 @@ li{
   width: 40%;
   float: left;
   margin-top: 5%;
+}
+
+.line {
+  font-weight: bolder;
+  font-style: oblique;
+  color:red;
+}
+.size {
+  font-weight: 600;
 }
