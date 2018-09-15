@@ -1,20 +1,29 @@
+[Imgur](https://i.imgur.com/0KTGmAQ.jpg)
+# Triangle Tracker
 
-#PROJECT NAME TRIANGLE TRACKER
+#### By _**Cliff Nyendwe**, 15/09/2018_
 
-#AUTHOR
+# Description
+This is a triangle tracker that determines the types of triangles
 
-###Cliff Nyendwe Esisari
-###cliffnyendwe2018@gmail.com
-DESCRIPTION
-Triangle tracker is a device used by mathematicians when determining various kinds of triangle.This devise makes it easy for them to identify the triangle.
+# Github-link
+https://github.com/cliffnyendwe/my-triangle-tracker
 
-PROJECT SET-UP INSTRUCTIONS
- CLONE THIS SITE IN YOUR DEVICE THEN COPY-PASTE INTO YOUR REPO
-**find more info in the links below**
-LINK TO LIVE SITE ON GH-PAGES
-https://cliffnyendwe.github.io/my-triangle-tracker/
-LICENSE
-https://github.com/cliffnyendwe/my-triangle-tracker.git is open-source . You are free to fork the source, 	code and make it better. Thank you !
-=======
+# Contacts
+To find me, here is my account cliffnyendwe2018@gmail.com
 
-TRIANGLE TRACKER
+# Code Example
+Kindly to access code clone the repository.
+
+# Motivation
+To make it easy for solving problems encountered in triangles.
+
+# License
+The project is under license by MIT
+
+## Prerequisites
+
+You will need the following things properly installed on your computer.
+* atom
+* git
+* github
