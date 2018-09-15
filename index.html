@@ -8,41 +8,38 @@
 
   <body>
     <div class="container">
-       <div id="#overlay">
-         <div id="#banner">
-          <nav>
-            <ul>
-              <li><a href="#contacts">CONTACTS</a></li>
-            </ul>
-          </nav>
-    <div class="column">
-        <h1 class="size">TRIANGLE TRACKER</h1>
-      <form>
-       <form class="" action="index.html" method="post">
-        <label class="form-control-sm d-inline-block my-2" for="number">SIZE .1</label>
-        <input class="form-control-sm d-inline-block my-2" type="text" name="number" id="triangle-side1"><br>
-        <label class="form-control-sm d-inline-block my-2" for="number">SIZE .2</label>
-        <input class="form-control-sm d-inline-block my-2" type="text" name="number" id="triangle-side2"><br>
-        <label class="form-control-sm d-inline-block my-2" for="number">SIZE .3</label>
-        <input class="form-control-sm d-inline-block my-2" type="text" name="number" id="triangle-side3"><br>
-        <input class="form-control-sm d-inline-block btn btn-info my-2" type="button" value="SUBMIT" onclick="typeOfTriangle()">
-        <input class="form-control-sm d-inline-block btn btn-info my-2" type="button" value="RESET" onclick="reset()">
-      </form>
-       <p class="d-none" value="" id="answer"></p>
-
+    <div class = "triangle">
+      <h1 class ="size p-3">TRIANGLE TRACKER</h>
     </div>
-    </div>
-    <div id="contacts">
-      <h2>Contacts</h2>
-      <ol>
-        <li>0710755175</li>
-        <li>cliffnyendwe2018@gmail.com</li>
-        <li>Facenook: triangletracker</li>
-        <li>@#triangletracker</li>
-      </ol>
-    </div>
-  </div>
-</div>
+   <div id = "selector">
+     <form>
+      <h2 class ="direct">You want to know types of triangle??</h2>
+      <h2 class = "styles">Insert your three sides below.</h2>
+      <label class="form-control-sm d-inline-block my-2" for="number">SIDE .1</label>
+      <input class="form-control-sm d-inline-block my-2" type="text" name="number" id="triangle-side1"><br>
+      <label class="form-control-sm d-inline-block my-2" for="number">SIDE .2</label>
+      <input class="form-control-sm d-inline-block my-2" type="text" name="number" id="triangle-side2"><br>
+      <label class="form-control-sm d-inline-block my-2" for="number">SIDE .3</label>
+      <input class="form-control-sm d-inline-block my-2" type="text" name="number" id="triangle-side3"><br>
+      <input class="form-control-sm d-inline-block btn btn-info my-2" type="button" value="SUBMIT" onclick="typeOfTriangle()">
+      <input class="form-control-sm d-inline-block btn btn-info my-2" type="button" value="RESET" onclick="reset()">
+    </form>
+    <p class="d-none" value="" id="answer"></p>
+    <br><br><br><br><br>
+    <marquee behavior="alternate">
+    <div class="images">
+    <img src ="isosce.png" width="300px">
+  <!-- </div> -->
+  <!-- <div class ="pics"> -->
+    <img src ="scaline.png" width="300px">
+  <!-- </div> -->
+  <!-- <div class ="photo"> -->
+  <img src ="sides-angles.png" width "300px">
+   <!-- </div> -->
+     </div>
+   </marquee>
   </body>
     <script src="js/script.js"></script>
+
+
 </html>

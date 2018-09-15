@@ -8,12 +8,6 @@ body{
   background-size: cover;
   background-color: grey;
   text-align: center;
-  background-attachment: scroll;
-  )
-}
-
-nav {
-  margin-bottom: 0;
 }
 
 li{
@@ -35,22 +29,17 @@ li{
   font-style: italic;
   font-weight: 300;
   font-size:large;
-  font
 }
 .styles{
   font-weight: 300;
   font-size: large;
   font-style: italic;
 }
-nav>li{
-  list-style-type: none;
-}
+
 .triangle{
-  background-color: red;
+  text-decoration-color: red;
 }
 .images{
   float:right;
-}
-.pics{
-  float:left;
+   padding-right: : 20px;
 }
