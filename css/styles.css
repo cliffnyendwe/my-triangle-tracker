@@ -16,10 +16,9 @@ nav {
 #triangle-tracker{
   padding-top:30%;
   text-align:left;
-  color:black;
+  color:grey;
   font-size: x-large;
   font-family: fantasy;
-  font-weight: bold;
 
 }
 li{
@@ -37,8 +36,9 @@ li{
   color:red;
 }
 .size {
-  font-weight: 600;
+  font-weight: bold;
+  font-family: fantasy;
 }
-.contacts{
-  padding-top: 40%;
+#contacts{
+  padding-top: 60%;
 }
