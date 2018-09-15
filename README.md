@@ -1,4 +1,3 @@
-[Imgur](https://i.imgur.com/0KTGmAQ.jpg)
 # Triangle Tracker
 
 #### By _**Cliff Nyendwe**, 15/09/2018_
