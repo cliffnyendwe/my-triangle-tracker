@@ -13,13 +13,13 @@ function typeOfTriangle(){
 		 window.alert('equilateral')
 		answer.innerHTML = 'equilateral'
 	}
-	else if(side1==side2 && side2 !=side3){
+	else if(side1==side2 || side2 ==side3 || side1==side3){
 		console.log('iso')
 		 window.alert('Isosceles')
 		answer.innerHTML = 'Isosceles'
 	}
 
-	else if(side1+side2<=side3){
+	else if(side1+side2<=side3 || side2+side3>=side1 || side1+side3>=side2){
 		console.log('not')
 		window.alert('Not a triangle')
 		answer.innerHTML = 'Not a triangle'
